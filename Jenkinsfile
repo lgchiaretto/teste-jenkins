@@ -5,7 +5,7 @@ pipeline {
 
         CODE_COMMIT_INPUT = 0
         OPENSHIFT_PROJECT = "demo-dev"
-        OPENSHIFT_BUILDCONFIG_NAME = "dockerfile-corporativo-1-git"
+        OPENSHIFT_BUILDCONFIG_NAME = "chiaretto-tam-pipeline"
 
     }
 
